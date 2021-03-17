@@ -1,0 +1,9 @@
+total 12
+-rw-r--r-- 1 root root 44 Mar 15 14:57 abc.txt
+-rw-r--r-- 1 root root 20 Mar 15 14:48 indu
+drwxr-xr-x 2 root root  6 Mar 16 16:13 one
+drwxr-xr-x 2 root root  6 Mar 15 14:43 sisi
+-rw-r--r-- 1 root root  2 Mar 16 16:44 suku
+-rw-r--r-- 1 root root  0 Mar 16 16:44 surya
+drwxr-xr-x 2 root root  6 Mar 16 16:13 three
+drwxr-xr-x 2 root root  6 Mar 16 16:13 two
